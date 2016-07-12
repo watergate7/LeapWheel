@@ -1,0 +1,7 @@
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\bin\Debug\LeapMotionTest.exe.config
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\bin\Debug\LeapMotionTest.exe
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\bin\Debug\LeapMotionTest.pdb
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\obj\Debug\LeapMotionTest.exe
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\obj\Debug\LeapMotionTest.pdb
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\bin\Debug\LeapCSharp.NET4.0.dll
+c:\users\xiaten\documents\visual studio 2015\Projects\LeapMotionTest\LeapMotionTest\obj\Debug\LeapMotionTest.csprojResolveAssemblyReference.cache
